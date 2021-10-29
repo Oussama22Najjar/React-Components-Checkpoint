@@ -6,10 +6,12 @@ import ProfilePhoto from './Componant/Profile/ProfilePhoto';
 
 function App() {
   return (
-    <div >
+    <div className="style">
      
      <ProfilePhoto />
+     
      <FullName />
+     <br />
     <Address />
 
 
